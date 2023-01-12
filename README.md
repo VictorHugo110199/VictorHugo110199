@@ -35,6 +35,5 @@
   </ul>
 </ul>
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=VictorHugo110199&count_private=true&theme=tokyonight)
-
 <h4>Email: victorhugo110199@gmail.com</h4>
+<h4>Curriculum: https://docs.google.com/document/d/1lCC8mcDGXKsXPZ-N0AlaLeVTSjLxPRlZZPG1ol3M-wg/edit?usp=sharing</h4>
